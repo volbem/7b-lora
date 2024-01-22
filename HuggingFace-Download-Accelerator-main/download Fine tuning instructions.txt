@@ -1,0 +1,1 @@
+python hf_download.py --dataset BelleGroup/train_0.5M_CN --save_dir ../data

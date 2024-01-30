@@ -1,1 +1,1 @@
-python hf_download.py --model baichuan-inc/Baichuan2-7B-Base --save_dir ../Baichuan2-7B-Base
+python hf_download.py --model baichuan-inc/Baichuan2-7B-Chat --save_dir ../Baichuan2-7B-Chat
